@@ -1,4 +1,5 @@
 a=10
-b=7
+//new value added
+b=8
 
 print(a-b)
